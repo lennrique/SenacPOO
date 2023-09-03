@@ -36,6 +36,6 @@ O IntelliJ IDEA agora abrirá o projeto.
 ## Executando o Projeto
 
 1. Abra a classe principal do projeto Main.java.
-2. Precione F5 para debugar ou Ctrl + F5 para executar
+2. Precione Shift + F10 para executar
 
 O IntelliJ IDEA executará o projeto e você verá a saída no console.
